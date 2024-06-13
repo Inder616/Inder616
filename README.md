@@ -1,5 +1,6 @@
 - Hi, there..! 👋
 - 🌱 I’m currently learning Coding
+- ⚡ Fun Fact! ❤️‍🔥 🎮
 
 
 <!---
