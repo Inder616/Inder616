@@ -63,18 +63,6 @@ I'm an aspiring data scientist with a strong interest in leveraging data to solv
 
 ---
 
-### 🚀 Projects
-Here are some of the projects I've worked on:
-- **Project 1**: [Project Name](link) - Short description of the project.
-- **Project 2**: [Project Name](link) - Short description of the project.
-
----
-
-### 📚 Blog
-I occasionally write about data science and my learning journey. Check out my blog [here](link).
-
----
-
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=inder&theme=onedark" alt="inder" />
 </p>
