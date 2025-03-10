@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Inder</h1>
 <h3 align="center">Aspiring Data Scientist | Passionate about Data, Analytics, and Machine Learning</h3>
 
-<img align="right" alt="codind" width="400" src=https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=inder&label=Profile%20views&color=0e75b6&style=flat" alt="inder" /> 
 </p>
