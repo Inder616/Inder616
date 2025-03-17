@@ -94,43 +94,72 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
 </table>
 
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/inder" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inder" height="30" width="40" />
-  </a>
-  <a href="https://github.com/inder" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="inder" height="30" width="40" />
-  </a>
-</p>
+  <h2>🌟 Data Science Journey</h2>
+</div>
 
----
+```mermaid
+graph LR
+    A[Python & Statistics] --> B[Data Analysis]
+    B --> C[Data Visualization]
+    C --> D[Machine Learning]
+    D --> E[Deep Learning]
+    E --> F[MLOps & Deployment]
+    
+    G[SQL & Databases] --> H[Big Data Tech]
+    H --> I[Cloud Computing]
+    I --> J[Data Engineering]
+    J --> F
+    
+    K[Math & Statistics] --> L[Research Methods]
+    L --> M[Advanced Analytics]
+    M --> N[AI Ethics]
+    N --> O[Business Strategy]
+    
+    style A fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style B fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style C fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style D fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style E fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+    style F fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+    
+    style G fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style H fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style I fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+    style J fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+    
+    style K fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style L fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style M fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+    style N fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+    style O fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+```
+
+
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=inder&theme=onedark" alt="inder" />
 </p>
-## 📊 My Data Science Journey
 
-```mermaid
-graph LR
-    A[Python Fundamentals] --> B[Data Analysis with Pandas]
-    B --> C[Data Visualization]
-    C --> D[Machine Learning Basics]
-    D --> E[Advanced ML Algorithms]
-    E --> F[Deep Learning]
-    G[SQL Basics] --> H[Advanced SQL]
-    H --> I[Database Design]
-    J[Statistics Fundamentals] --> K[Probability Theory]
-    K --> L[Experimental Design]
-    style A fill:#0077b6,color:white
-    style B fill:#0077b6,color:white
-    style C fill:#0077b6,color:white
-    style D fill:#0077b6,color:white
-    style G fill:#0077b6,color:white
-    style H fill:#0077b6,color:white
-    style J fill:#0077b6,color:white
-    style K fill:#0077b6,color:white
-    style E fill:#023e8a,color:white
-    style F fill:#023e8a,color:white
-    style I fill:#023e8a,color:white
-    style L fill:#023e8a,color:white
+<div align="center">
+  <h2>📫 Let's Connect</h2>
+  <p>
+    <em>Open to collaborations, discussions, and new opportunities</em>
+  </p>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/inder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://calendly.com/inder" target="_blank">
+    <img src="https://img.shields.io/badge/Calendly-Schedule-4285F4?style=for-the-badge&logo=googlecalendar" alt="Calendly"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
