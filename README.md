@@ -154,11 +154,7 @@ graph LR
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://calendly.com/inder" target="_blank">
-    <img src="https://img.shields.io/badge/Calendly-Schedule-4285F4?style=for-the-badge&logo=googlecalendar" alt="Calendly"/>
-  </a>
-</p>
-
+ 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
