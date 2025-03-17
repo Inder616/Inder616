@@ -7,7 +7,7 @@
   
   <p>Transforming data into actionable insights and intelligent solutions</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inder)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inderjeet-sinha-a61a57307/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inder)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/)
   
@@ -148,7 +148,7 @@ graph LR
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/inder" target="_blank">
+  <a href="https://www.linkedin.com/in/inderjeet-sinha-a61a57307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
