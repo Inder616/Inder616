@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Coding Animation" style="width: 250px; height: 250px; object-fit: cover;">
+<img src="https://forgesecure.com/wp-content/uploads/2024/05/3_What_Is_Nessus-1536x478.jpg" alt="Coding Animation" style="width: 100%; height: auto;">
 
   # Hello, I'm Inder 👋
   
@@ -155,7 +155,7 @@ graph LR
   <a href="https://www.linkedin.com/in/inderjeet-sinha-a61a57307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="sinhainder616@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
  
