@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200" alt="coding animation">
-  
+  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Coding Animation" style="width: 250px; height: 250px; object-fit: cover;">
+
   # Hello, I'm Inder 👋
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E6EE1&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+ML)](https://git.io/typing-svg)
@@ -52,6 +52,10 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
+     <td align="center" width="96">
+      <img src="https://th.bing.com/th/id/OIP.FBtyU6tzINwuAe-rpd7fhwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
       <br>Scikit-Learn
@@ -79,7 +83,7 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" width="48" height="48" alt="Matplotlib" />
+      <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" width="48" height="48" alt="Matplotlib" />
       <br>Matplotlib
     </td>
     <td align="center" width="96">
