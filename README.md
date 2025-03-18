@@ -155,9 +155,10 @@ graph LR
   <a href="https://www.linkedin.com/in/inderjeet-sinha-a61a57307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="sinhainder616@gmail.com" target="_blank">
+ <a href="mailto:sinhainder616@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+</a>
+
  
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
