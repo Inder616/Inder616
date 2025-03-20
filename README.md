@@ -25,6 +25,8 @@ I'm a data enthusiast on a journey to become a skilled Data Scientist, passionat
 - 📈 Creating compelling data visualizations that tell a story
 - 🧠 Continuously expanding my knowledge in AI and data science
 
+Currently, I'm learning Python from Dr. Angela Yu's course and exploring data science through 365 Data Science. My goal is to extract meaningful insights from complex datasets, build machine learning models that solve real-world problems, and create compelling data visualizations that tell a story.
+
 With a strong analytical mindset and technical skills, I aim to contribute to data-driven decision making and innovation.
 
 ### 🌱 What I'm Learning
