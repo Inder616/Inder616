@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a data enthusiast on a journey to become a skilled Data Scientist, passionate about:
+I'm a data enthusiast on a journey to become a skilled Data Analyst/Scientist, passionate about:
 
 - 📊 Extracting meaningful insights from complex datasets
 - 🤖 Building machine learning models that solve real-world problems
