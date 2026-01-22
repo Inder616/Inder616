@@ -127,27 +127,35 @@ graph LR
 
 ```
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=inder&theme=onedark" alt="inder" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inder616&theme=github-compact&hide_border=true" />
 </p>
 
+
+<hr style="border:1px solid #30363d; width:60%; margin:auto;"/>
+
+<br/>
+
 <div align="center">
-  <h2>📫 Let's Connect</h2>
+  <h2>📫 Let’s Connect</h2>
   <p>
-    <em>Open to collaborations, discussions, and new opportunities</em>
+    <em>Open to opportunities, collaborations, and meaningful discussions</em>
   </p>
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/inderjeet-sinha-a61a57307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:sinhainder616@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/inderjeet-sinha-a61a57307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
- <a href="mailto:sinhainder616@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
+<br/>
 
- 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
 </div>
 
