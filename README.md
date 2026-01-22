@@ -120,6 +120,7 @@ graph LR
     style D fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
     style E fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
 
+```
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=inder&theme=onedark" alt="inder" />
