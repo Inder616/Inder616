@@ -44,6 +44,7 @@ Statistics for data interpretation and insights
 
 ## 🔥 My Tech Stack
 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -91,6 +92,10 @@ Statistics for data interpretation and insights
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
       <br>Git
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
     </td>
   </tr>
 </table>
