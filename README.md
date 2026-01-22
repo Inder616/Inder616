@@ -42,104 +42,112 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
 
 <table>
   <tr>
+    <!-- Excel -->
+    <td align="center" width="96">
+      <img src="https://freepnglogo.com/images/all_img/excel-logo-24ae.png" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+
+    <!-- PostgreSQL -->
+    <td align="center" width="96">
+      <img src="https://tse1.mm.bing.net/th/id/OIP.hRU-1--GSINXvlIcB36WcwHaHa?cb=defcache2defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+
+    <!-- Python -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://tse1.mm.bing.net/th/id/OIP.hRU-1--GSINXvlIcB36WcwHaHa?cb=defcache2defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="48" height="48" alt="MySQL" />
-      <br>Postgresql
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
-     <td align="center" width="96">
-      <img src="https://th.bing.com/th/id/OIP.FBtyU6tzINwuAe-rpd7fhwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" width="48" height="48" alt="Tableau" />
-      <br>Tableau
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-  </tr>
-  <tr>
+
+    <!-- NumPy -->
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
+
+    <!-- Pandas -->
     <td align="center" width="96">
-      <img src="https://logodix.com/logo/34689.jpg" width="48" height="48" alt="Jupyter" />
-      <br>Excel
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
+
+    <!-- Matplotlib -->
     <td align="center" width="96">
       <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" width="48" height="48" alt="Matplotlib" />
       <br>Matplotlib
     </td>
+
+    <!-- Seaborn -->
     <td align="center" width="96">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
       <br>Seaborn
     </td>
+  </tr>
+
+  <tr>
+    <!-- Plotly -->
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48" alt="Plotly" />
       <br>Plotly
+    </td>
+
+    <!-- Power BI -->
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+
+    <!-- Tableau -->
+    <td align="center" width="96">
+      <img src="https://th.bing.com/th/id/OIP.FBtyU6tzINwuAe-rpd7fhwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+
+    <!-- Git -->
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
 
 
-  <h2>🌟 Data Science Journey</h2>
-</div>
 
-```mermaid
-graph LR
-    A[Python & Statistics] --> B[Data Analysis]
-    B --> C[Data Visualization]
-    C --> D[Machine Learning]
-    D --> E[Deep Learning]
-    E --> F[MLOps & Deployment]
-    
-    G[SQL & Databases] --> H[Big Data Tech]
-    H --> I[Cloud Computing]
-    I --> J[Data Engineering]
-    J --> F
-    
-    K[Math & Statistics] --> L[Research Methods]
-    L --> M[Advanced Analytics]
-    M --> N[AI Ethics]
-    N --> O[Business Strategy]
-    
+ graph LR
+    A[Excel & Spreadsheets] --> B[Data Cleaning]
+    B --> C[Exploratory Data Analysis]
+    C --> D[Data Visualization]
+    D --> E[Dashboards & Reports]
+
+    F[SQL & Databases] --> G[Data Extraction]
+    G --> B
+    G --> E
+
+    H[Python Basics] --> I[Pandas & NumPy]
+    I --> B
+    I --> C
+    I --> D
+
+    J[Statistics Basics] --> C
+    K[Business Understanding] --> E
+    E --> L[Insights & Decision Making]
+
     style A fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
     style B fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
     style C fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
     style D fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
     style E fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-    style F fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-    
-    style G fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
-    style H fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
-    style I fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-    style J fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-    
-    style K fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
-    style L fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
-    style M fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-    style N fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-    style O fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-```
 
+    style F fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style G fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+
+    style H fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style I fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+
+    style J fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
+    style K fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
+    style L fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
 
 
 <p align="center"> 
