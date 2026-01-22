@@ -37,84 +37,8 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
 
 ---
 
-
-## 🔥 My Tech Stack
-
-<table>
-  <tr>
-    <!-- Excel -->
-    <td align="center" width="96">
-      <img src="https://freepnglogo.com/images/all_img/excel-logo-24ae.png" width="48" height="48" alt="Excel" />
-      <br>Excel
-    </td>
-
-    <!-- PostgreSQL -->
-    <td align="center" width="96">
-      <img src="https://tse1.mm.bing.net/th/id/OIP.hRU-1--GSINXvlIcB36WcwHaHa?cb=defcache2defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-
-    <!-- Python -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-
-    <!-- NumPy -->
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-
-    <!-- Pandas -->
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-
-    <!-- Matplotlib -->
-    <td align="center" width="96">
-      <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-
-    <!-- Seaborn -->
-    <td align="center" width="96">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
-      <br>Seaborn
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Plotly -->
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48" alt="Plotly" />
-      <br>Plotly
-    </td>
-
-    <!-- Power BI -->
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
-
-    <!-- Tableau -->
-    <td align="center" width="96">
-      <img src="https://th.bing.com/th/id/OIP.FBtyU6tzINwuAe-rpd7fhwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" width="48" height="48" alt="Tableau" />
-      <br>Tableau
-    </td>
-
-    <!-- Git -->
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-
-
- graph LR
+🌟 Data Analyst Journey
+graph LR
     A[Excel & Spreadsheets] --> B[Data Cleaning]
     B --> C[Exploratory Data Analysis]
     C --> D[Data Visualization]
@@ -148,7 +72,6 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
     style J fill:#3498db,color:white,stroke:#2980b9,stroke-width:2px
     style K fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
     style L fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
-
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=inder&theme=onedark" alt="inder" />
