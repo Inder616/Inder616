@@ -47,8 +47,8 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="https://tse1.mm.bing.net/th/id/OIP.hRU-1--GSINXvlIcB36WcwHaHa?cb=defcache2defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="48" height="48" alt="MySQL" />
+      <br>Postgresql
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
@@ -77,8 +77,8 @@ With a strong analytical mindset and technical skills, I aim to contribute to da
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
+      <img src="https://logodix.com/logo/34689.jpg" width="48" height="48" alt="Jupyter" />
+      <br>Excel
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
