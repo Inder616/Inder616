@@ -3,8 +3,8 @@
 
 # Hello, I'm Inder 👋
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E6EE1&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+ML)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0E6EE1&center=true&vCenter=true&width=600&lines=Data+Analyst;Excel+%7C+SQL+%7C+Python;Power+BI+%7C+Tableau;Using+AI+to+Enhance+Data+Insights)](https://git.io/typing-svg)
+
 <p>Transforming data into actionable insights and intelligent solutions</p>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inderjeet-sinha-a61a57307/)
@@ -16,33 +16,38 @@
 
 <img align="right" alt="Data Science" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I'm a data enthusiast on a journey to become a skilled Data Analyst/Scientist, passionate about:
+I'm a data enthusiast on a journey to become a skilled Data Analyst, passionate about transforming raw data into meaningful insights that support better decision-making.
 
-- 📊 Extracting meaningful insights from complex datasets
-- 🤖 Building machine learning models that solve real-world problems
-- 📈 Creating compelling data visualizations that tell a story
-- 🧠 Continuously expanding my knowledge in AI and data science
+📊 Analyzing and interpreting complex datasets
 
-Currently, I'm learning Python from Dr. Angela Yu's course and exploring data science through 365 Data Science. My goal is to extract meaningful insights from complex datasets, build machine learning models that solve real-world problems, and create compelling data visualizations that tell a story.
+📈 Creating clear and impactful data visualizations
 
-With a strong analytical mindset and technical skills, I aim to contribute to data-driven decision making and innovation.
+🧠 Continuously improving my analytical and problem-solving skills
 
-### 🌱 What I'm Learning
-- **Python** for data analysis
-- **SQL** for database querying
-- **Power BI** for dashboards & reporting
-- **Statistics** for data interpretation
+🤖 Using AI tools to enhance productivity and data analysis
 
----
+Currently, I’m learning Python through Dr. Angela Yu’s course and strengthening my data analytics foundation with 365 Data Science. My focus is on data cleaning, exploratory data analysis, and storytelling through dashboards and reports.
+
+With a strong analytical mindset and growing technical skills, I aim to contribute to data-driven decisions and business insights in the modern, AI-assisted analytics era.
+
+🌱 What I’m Learning
+
+Python for data analysis and automation
+
+SQL for data extraction and querying
+
+Power BI for dashboards and business reporting
+
+Statistics for data interpretation and insights
 
 ## 🔥 My Tech Stack
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://freepnglogo.com/images/all_img/excel-logo-24ae.png" width="48" height="48" alt="Excel" />
+      <img src="https://img.icons8.com/color/1200/microsoft-excel-2025.jpg" width="48" height="48" alt="Excel" />
       <br>Excel
     </td>
     <td align="center" width="96">
