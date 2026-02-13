@@ -2,7 +2,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Storyteller%20%F0%9F%93%8A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
-<img src="https://forgesecure.com/wp-content/uploads/2024/05/3_What_Is_Nessus-1536x478.jpg" alt="Coding Animation" style="width: 100%; height: auto;">
+<p align="center" style="margin:0; padding:0;">
+  <img 
+    src="https://raw.githubusercontent.com/Inder616/Inder616/main/data-analyst-banner.png.png"
+    width="100%"
+    style="display:block; margin:0; padding:0;"
+  />
+</p>
+
 
 # Hello, I'm Inder 👋
 <!-- Typing SVG --> 
