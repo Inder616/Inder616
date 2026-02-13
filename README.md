@@ -1,9 +1,18 @@
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Storyteller%20%F0%9F%93%8A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 <div align="center">
 <img src="https://forgesecure.com/wp-content/uploads/2024/05/3_What_Is_Nessus-1536x478.jpg" alt="Coding Animation" style="width: 100%; height: auto;">
 
 # Hello, I'm Inder 👋
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0E6EE1&center=true&vCenter=true&width=600&lines=Data+Analyst;Excel+%7C+SQL+%7C+Python;Power+BI+%7C+Tableau;Using+AI+to+Enhance+Data+Insights)](https://git.io/typing-svg)
+<!-- Typing SVG --> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst;Excel+%7C+SQL+%7C+Python;Power+BI+%7C+Tableau;Using+AI+to+Enhance+Data+Insights;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 <p>Transforming data into actionable insights and intelligent solutions</p>
   
