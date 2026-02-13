@@ -30,7 +30,14 @@
 <img src="https://komarev.com/ghpvc/?username=Inder616&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 <img align="right" alt="Data Science" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+
+
 
 👨‍💻 About Me
 
@@ -58,65 +65,98 @@ Power BI for dashboards and business reporting
 
 Statistics for data interpretation and insights
 
-## 🔥 My Tech Stack
+## 🚀 Tech Stack & Tools
 
+<div align="center">
 
+### 📊 Data Analysis & Visualization
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/1200/microsoft-excel-2025.jpg" width="48" height="48" alt="Excel" />
-      <br>Excel
+      <img src="https://img.icons8.com/color/1200/microsoft-excel-2025.jpg" width="65" height="65" alt="Excel" />
+      <br><strong>Excel</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://tse1.mm.bing.net/th/id/OIP.hRU-1--GSINXvlIcB36WcwHaHa?cb=defcache2defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+      <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="65" height="65" alt="NumPy" />
+      <br><strong>NumPy</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
-      <br>Seaborn
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48" alt="Plotly" />
-      <br>Plotly
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
-    <td align="center" width="96">
-      <img src="https://th.bing.com/th/id/OIP.FBtyU6tzINwuAe-rpd7fhwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" width="48" height="48" alt="Tableau" />
-      <br>Tableau
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
+      <br><strong>Pandas</strong>
     </td>
   </tr>
 </table>
 
----
+### 📈 Visualization Libraries
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" width="65" height="65" alt="Matplotlib" />
+      <br><strong>Matplotlib</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="65" height="65" alt="Seaborn" />
+      <br><strong>Seaborn</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="65" height="65" alt="Plotly" />
+      <br><strong>Plotly</strong>
+    </td>
+  </tr>
+</table>
+
+### 💼 Business Intelligence & Databases
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="65" height="65" alt="Power BI" />
+      <br><strong>Power BI</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://th.bing.com/th/id/OIP.FBtyU6tzINwuAe-rpd7fhwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" width="65" height="65" alt="Tableau" />
+      <br><strong>Tableau</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://tse1.mm.bing.net/th/id/OIP.hRU-1--GSINXvlIcB36WcwHaHa?cb=defcache2defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="65" height="65" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Development Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65" height="65" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="65" height="65" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+
+<div align="center">
+  <i>💡 Passionate about turning data into actionable insights</i>
+</div>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 ## 🌟 Data Analyst Journey
 
@@ -147,13 +187,18 @@ graph LR
     style E fill:#9b59b6,color:white,stroke:#8e44ad,stroke-width:2px
 
 ```
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inder616&theme=github-compact&hide_border=true" />
 </p>
-
-
-<hr style="border:1px solid #30363d; width:60%; margin:auto;"/>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <br/>
 
