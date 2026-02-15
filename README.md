@@ -44,8 +44,11 @@
 I’m a passionate Data Analyst focused on transforming raw data into meaningful insights that drive smarter business decisions. I enjoy exploring data, uncovering patterns, and presenting results in a clear and impactful way.
 
 📊 Analyzing and interpreting complex datasets
+
 📈 Building insightful dashboards and data visualizations
+
 🧠 Strengthening analytical thinking and problem-solving skills
+
 🤖 Leveraging AI tools to enhance data analysis and productivity
 
 I am continuously developing my expertise in data cleaning, exploratory data analysis (EDA), and storytelling through dashboards and reports. With a strong analytical mindset and growing technical skills, I aim to contribute to data-driven strategies in today’s AI-powered business environment.
