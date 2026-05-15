@@ -41,27 +41,25 @@
 
 👨‍💻 About Me
 
-I’m a passionate Data Analyst focused on transforming raw data into meaningful insights that drive smarter business decisions. I enjoy exploring data, uncovering patterns, and presenting results in a clear and impactful way.
+I’m a Data Analyst passionate about transforming raw data into meaningful insights that support smarter business decisions. Skilled in SQL, Python, Power BI, Excel, and data visualization, I enjoy exploring datasets, identifying trends, and building interactive dashboards that communicate insights effectively.
 
-📊 Analyzing and interpreting complex datasets
+- Analyzing and interpreting real-world datasets
+- Building interactive dashboards and visual reports
+- Performing data cleaning and exploratory data analysis (EDA)
+- Applying analytical thinking to solve business problems
+- Leveraging AI tools to improve productivity and workflow efficiency
 
-📈 Building insightful dashboards and data visualizations
-
-🧠 Strengthening analytical thinking and problem-solving skills
-
-🤖 Leveraging AI tools to enhance data analysis and productivity
-
-I am continuously developing my expertise in data cleaning, exploratory data analysis (EDA), and storytelling through dashboards and reports. With a strong analytical mindset and growing technical skills, I aim to contribute to data-driven strategies in today’s AI-powered business environment.
+Through internship experience and end-to-end analytics projects, I have worked on KPI reporting, dashboard development, lead analysis, and healthcare/content analytics projects using real-world data. I am continuously improving my technical and analytical skills to grow as a data-driven problem solver in the analytics field.
 
 🌱 Currently Strengthening
 
-Python for data analysis and automation
+- Python for data analysis and automation
 
-SQL for data extraction and advanced querying
+- SQL for data extraction and advanced querying
 
-Power BI for business dashboards and reporting
+- Power BI for business dashboards and reporting
 
-Statistics for data interpretation and decision-making
+- Statistics for data interpretation and decision-making
 
 ## 🚀 Tech Stack & Tools
 
